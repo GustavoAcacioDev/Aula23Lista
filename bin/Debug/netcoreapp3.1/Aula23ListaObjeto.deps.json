@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula23ListaObjeto/1.0.0": {
+        "runtime": {
+          "Aula23ListaObjeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula23ListaObjeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
